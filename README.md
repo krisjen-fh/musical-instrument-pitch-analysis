@@ -1,5 +1,3 @@
-# musical-instrument-pitch-analysis
-
 # 🎶 Musical Instrument Pitch Analysis
 
 This project focuses on detecting the **fundamental frequency (pitch)** of musical instrument sounds—specifically single-note acoustic guitar recordings—using **digital signal processing** techniques. Built in Google Colab, this notebook provides a step-by-step process to analyze sound signals and visualize pitch information.
